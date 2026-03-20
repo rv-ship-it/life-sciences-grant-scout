@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "Grant Scout Bot"
           git config user.email "bot@grantscout.local"
-          git add output/ dashboard/data/
+          git add -f output/ dashboard/data/
           git diff --staged --quiet || git commit -m "Weekly scan: $(date +%Y-%m-%d)"
           git push
 
