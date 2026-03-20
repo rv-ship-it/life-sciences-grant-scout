@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grant Scout 2 - Life Sciences Grant Dashboard</title>
+    <link rel="stylesheet" href="css/styles.css?v=3">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="header-title-row">
+                <div>
+                    <h1>Grant Scout 2</h1>
+                    <p class="subtitle">Life Sciences Grant Opportunities</p>
+                </div>
+                <button id="refresh-btn" class="refresh-button" title="Re-fetch grants from all sources">
+                    <svg class="refresh-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <path d="M1 4v6h6M23 20v-6h-6"/>
+                        <path d="M20.49 9A9 9 0 005.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 013.51 15"/>
+                    </svg>
+                    <span class="refresh-text">Refresh</span>
+                </button>
+            </div>
+        </div>
+        <div class="stats-bar">
+            <div class="stat">
+                <span class="stat-value" id="stat-total">--</span>
+                <span class="stat-label">Total</span>
+            </div>
+            <div class="stat stat-priority">
+                <span class="stat-value" id="stat-priority">--</span>
+                <span class="stat-label">High Priority</span>
+            </div>
+            <div class="stat stat-startup">
+                <span class="stat-value" id="stat-startup">--</span>
+                <span class="stat-label">Startup Eligible</span>
+            </div>
+            <div class="stat stat-consortium">
+                <span class="stat-value" id="stat-consortium">--</span>
+                <span class="stat-label">Consortium</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="stat-date">--</span>
+                <span class="stat-label">Last Updated</span>
+            </div>
+        </div>
+    </header>
+
+    <div class="filter-bar">
+        <input type="text" id="search-box" placeholder="Search grants..." class="search-input">
+
+        <select id="filter-source">
+            <option value="">All Sources</option>
+        </select>
+
+        <select id="filter-topic">
+            <option value="">All Topics</option>
+        </select>
+
+        <select id="filter-eligibility">
+            <option value="">All Eligibility</option>
+            <option value="startup">Startup Eligible</option>
+            <option value="consortium">Consortium Eligible</option>
+            <option value="both">Startup + Consortium</option>
+        </select>
+
+        <select id="sort-by">
+            <option value="score">Sort: Score</option>
+            <option value="deadline">Sort: Deadline</option>
+            <option value="posted">Sort: Posted Date</option>
+        </select>
+
+        <label class="priority-toggle">
+            <input type="checkbox" id="filter-priority">
+            High Priority Only
+        </label>
+
+        <span class="result-count" id="result-count">--</span>
+    </div>
+
+    <main id="results" class="results-grid">
+        <div class="loading">Loading grant data...</div>
+    </main>
+
+    <div class="modal-overlay" id="detail-modal">
+        <div class="modal">
+            <button class="modal-close" id="modal-close">&times;</button>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="js/filters.js?v=3"></script>
+    <script src="js/modal.js?v=3"></script>
+    <script src="js/app.js?v=3"></script>
+</body>
+</html>

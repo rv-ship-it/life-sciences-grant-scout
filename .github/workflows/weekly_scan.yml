@@ -1,0 +1,50 @@
+name: Weekly Grant Scan
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run grant scanner
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py --no-semantic
+
+      - name: Copy data to dashboard
+        run: |
+          mkdir -p dashboard/data
+          cp output/opportunities.json dashboard/data/
+
+      - name: Commit results
+        run: |
+          git config user.name "Grant Scout Bot"
+          git config user.email "bot@grantscout.local"
+          git add output/ dashboard/data/
+          git diff --staged --quiet || git commit -m "Weekly scan: $(date +%Y-%m-%d)"
+          git push
+
+      - name: Deploy dashboard to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dashboard

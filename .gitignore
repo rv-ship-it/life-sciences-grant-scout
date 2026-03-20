@@ -1,0 +1,9 @@
+output/
+dashboard/data/
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+.DS_Store
+.claude/

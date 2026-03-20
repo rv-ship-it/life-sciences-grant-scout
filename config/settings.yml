@@ -1,0 +1,53 @@
+sources:
+  nih_guide:
+    enabled: true
+    url: "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml"
+    timeout: 30
+
+  grants_gov:
+    enabled: true
+    url: "https://api.grants.gov/v1/api/search2"
+    timeout: 30
+    funding_categories:
+      - "HL"
+    rows_per_page: 250
+
+  eu_portal:
+    enabled: true
+    url: "https://api.tech.ec.europa.eu/search-api/prod/rest/search"
+    timeout: 30
+    programmes:
+      - "Horizon Europe"
+      - "EU4Health"
+
+  sbir:
+    enabled: true
+    base_url: "https://www.sbir.gov/api"
+    timeout: 30
+    agencies:
+      - "HHS"
+      - "NIH"
+      - "NSF"
+
+pipeline:
+  max_description_length: 5000
+  dedup_similarity_threshold: 0.85
+
+semantic_scoring:
+  enabled: false
+  model: "claude-sonnet-4-6"
+  batch_size: 10
+  batch_delay: 5
+  company_context: >
+    A life sciences startup developing glycan-displaying protein technology
+    for mucosal health, with focus areas in infant nutrition (breast milk
+    components, HMOs), women's health (vaginal microbiome, menopause, GSM),
+    gut health (mucosal barrier, IBD), inflammatory diseases, skin microbiome,
+    and biomanufacturing of live biotherapeutic products.
+
+output:
+  dir: "output"
+  json_file: "opportunities.json"
+  csv_file: "opportunities.csv"
+  report_file: "report.md"
+  dashboard_data: "dashboard/data/opportunities.json"

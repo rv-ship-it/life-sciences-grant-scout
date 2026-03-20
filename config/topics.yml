@@ -1,0 +1,217 @@
+topics:
+  Microbiome:
+    weight: 1.0
+    keywords:
+      - gut microbiome
+      - microbiome
+      - dysbiosis
+      - probiotic
+      - prebiotic
+      - synbiotic
+      - postbiotic
+      - 16S rRNA
+      - metagenomics
+      - shotgun sequencing
+      - microbiota
+      - commensal bacteria
+      - Lactobacillus
+      - Bifidobacterium
+
+  Infant Nutrition:
+    weight: 1.0
+    keywords:
+      - infant nutrition
+      - breast milk
+      - human milk oligosaccharides
+      - HMO
+      - lactoferrin
+      - infant formula
+      - neonatal nutrition
+      - pediatric nutrition
+      - breastfeeding
+      - complementary feeding
+      - infant gut
+      - neonatal microbiome
+
+  Women's Health / Vaginal:
+    weight: 0.9
+    keywords:
+      - vaginal microbiome
+      - bacterial vaginosis
+      - BV
+      - vulvovaginal candidiasis
+      - VVC
+      - Lactobacillus crispatus
+      - vaginal dysbiosis
+      - cervicovaginal
+      - reproductive tract microbiome
+      - vaginal dryness
+      - vaginal atrophy
+      - urogenital health
+      - pelvic floor
+      - vulvovaginal
+      - feminine health
+      - urinary tract infection
+      - UTI
+      - recurrent UTI
+      - estrogen deficiency
+      - women's health
+      - female reproductive health
+      - endometriosis
+      - polycystic ovary syndrome
+      - PCOS
+      - menopause
+      - menopausal
+      - perimenopause
+      - postmenopause
+      - genitourinary syndrome of menopause
+      - GSM
+      - vulvovaginal atrophy
+      - hormone replacement therapy
+      - HRT
+
+  Gut Health / Mucosal Barrier:
+    weight: 1.0
+    keywords:
+      - mucosal barrier
+      - mucosal health
+      - mucus
+      - mucin
+      - goblet cells
+      - intestinal barrier
+      - epithelial barrier
+      - tight junctions
+      - intestinal permeability
+      - leaky gut
+      - mucosal defense
+      - mucosal immunity
+      - inflammatory bowel disease
+      - IBD
+      - ulcerative colitis
+      - Crohn's disease
+      - irritable bowel syndrome
+      - IBS
+      - gut inflammation
+      - colitis
+      - gastrointestinal health
+      - intestinal inflammation
+      - gut-brain axis
+      - microbiome-gut axis
+      - fecal microbiota transplant
+      - FMT
+      - short-chain fatty acids
+      - SCFA
+
+  Skin Microbiome:
+    weight: 0.8
+    keywords:
+      - skin microbiome
+      - cutaneous microbiome
+      - skin barrier
+      - atopic dermatitis microbiome
+      - skin commensals
+      - dermal microbiota
+
+  Glycans / Glycoproteins:
+    weight: 1.0
+    keywords:
+      - glycan displaying protein
+      - glycoproteins
+      - glycosylation
+      - O-glycosylation
+      - N-glycosylation
+      - mucin glycoprotein
+      - glycobiology
+      - glycan structures
+      - sialylation
+      - fucosylation
+
+  Inflammatory Diseases:
+    weight: 0.9
+    keywords:
+      - chronic inflammation
+      - inflammatory disease
+      - autoimmune disease
+      - mucosal inflammation
+      - immune-mediated
+      - anti-inflammatory
+      - immunomodulation
+      - inflammatory biomarkers
+      - cytokine
+      - TNF-alpha
+      - interleukin
+      - innate immunity
+      - adaptive immunity
+      - immune response
+      - immune barrier
+      - inflammation resolution
+
+  Biomanufacturing:
+    weight: 0.7
+    keywords:
+      - biomanufacturing
+      - biomanufacturing scale up
+      - bioprocess
+      - fermentation
+      - cell culture manufacturing
+      - GMP manufacturing
+      - biologics manufacturing
+      - live biotherapeutic products
+      - LBP
+      - mucosal delivery
+
+  Microbiome-related Diseases:
+    weight: 0.9
+    keywords:
+      - C. difficile
+      - Clostridioides difficile
+      - SIBO
+      - colorectal cancer microbiome
+      - necrotizing enterocolitis
+      - NEC
+      - metabolic syndrome
+      - obesity microbiome
+      - type 2 diabetes microbiome
+      - liver disease microbiome
+      - NAFLD
+      - allergies microbiome
+      - respiratory microbiome
+
+  Nutrition:
+    weight: 0.8
+    keywords:
+      - nutrition
+      - dietary intervention
+      - functional foods
+      - nutraceuticals
+      - medical nutrition therapy
+      - personalized nutrition
+      - nutrigenomics
+      - food as medicine
+
+scoring:
+  keyword_weight: 0.60
+  semantic_weight: 0.40
+  high_priority_score_threshold: 40
+  high_priority_deadline_days: 60
+
+eligibility_flags:
+  startup_keywords:
+    - SME
+    - small business
+    - startup
+    - start-up
+    - small and medium
+    - SBIR
+    - STTR
+    - seed funding
+    - early-stage company
+    - small company
+  consortium_keywords:
+    - consortium
+    - collaborative
+    - partnership
+    - multi-institutional
+    - joint proposal
+    - collaborative agreement
+    - teaming
