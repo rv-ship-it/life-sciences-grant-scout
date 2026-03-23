@@ -29,6 +29,27 @@ sources:
       - "NIH"
       - "NSF"
 
+  grand_challenges:
+    enabled: true
+    url: "https://gcgh.grandchallenges.org/grant-opportunities"
+    detail_url_base: "https://gcgh.grandchallenges.org"
+    timeout: 30
+    request_delay: 2.0
+
+  innovation_fund_dk:
+    enabled: true
+    url: "https://innovationsfonden.dk/en/programmes"
+    detail_url_base: "https://innovationsfonden.dk"
+    timeout: 30
+    request_delay: 2.0
+
+  wellcome_leap:
+    enabled: true
+    url: "https://wellcomeleap.org"
+    programs_path: "/programs/"
+    timeout: 30
+    request_delay: 2.0
+
 pipeline:
   max_description_length: 5000
   dedup_similarity_threshold: 0.85

@@ -7,9 +7,12 @@ import yaml
 from .deduplicator import Deduplicator
 from .eligibility import parse_eligibility
 from .fetchers.eu_portal import EUPortalFetcher
+from .fetchers.grand_challenges import GrandChallengesFetcher
 from .fetchers.grants_gov import GrantsGovFetcher
+from .fetchers.innovation_fund_dk import InnovationFundDKFetcher
 from .fetchers.nih_guide import NIHGuideFetcher
 from .fetchers.sbir import SBIRFetcher
+from .fetchers.wellcome_leap import WellcomeLeapFetcher
 from .scoring.combined import CombinedScorer
 from .scoring.keyword_scorer import KeywordScorer
 from .scoring.semantic_scorer import SemanticScorer
@@ -22,6 +25,9 @@ FETCHER_MAP = {
     "sbir": (SBIRFetcher, "sbir"),
     "grants_gov": (GrantsGovFetcher, "grants_gov"),
     "eu_portal": (EUPortalFetcher, "eu_portal"),
+    "grand_challenges": (GrandChallengesFetcher, "grand_challenges"),
+    "innovation_fund_dk": (InnovationFundDKFetcher, "innovation_fund_dk"),
+    "wellcome_leap": (WellcomeLeapFetcher, "wellcome_leap"),
 }
 
 

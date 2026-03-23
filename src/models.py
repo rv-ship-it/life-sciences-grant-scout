@@ -9,6 +9,9 @@ class Source(str, Enum):
     GRANTS_GOV = "Grants.gov"
     EU_PORTAL = "EU Funding Portal"
     SBIR = "SBIR/STTR"
+    GRAND_CHALLENGES = "Grand Challenges"
+    INNOVATION_FUND_DK = "Innovation Fund Denmark"
+    WELLCOME_LEAP = "Wellcome Leap"
 
 
 class ActivityType(str, Enum):

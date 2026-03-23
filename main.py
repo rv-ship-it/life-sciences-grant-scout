@@ -31,7 +31,10 @@ def main():
     )
     parser.add_argument(
         "--sources", nargs="+",
-        choices=["nih_guide", "grants_gov", "eu_portal", "sbir"],
+        choices=[
+            "nih_guide", "grants_gov", "eu_portal", "sbir",
+            "grand_challenges", "innovation_fund_dk", "wellcome_leap",
+        ],
         help="Run specific sources only",
     )
     parser.add_argument(
