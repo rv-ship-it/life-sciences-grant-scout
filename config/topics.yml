@@ -1,193 +1,180 @@
 topics:
-  Microbiome:
+  Mucin Biology & Technology:
     weight: 1.0
     keywords:
-      - gut microbiome
+      - mucin
+      - mucins
+      - MUC2
+      - MUC5AC
+      - MUC5B
+      - mucus layer
+      - mucus production
+      - goblet cells
+      - mucin glycoprotein
+      - recombinant mucin
+      - mucin expression
+      - mucus gel
+      - mucin gene
+      - secretory mucin
+      - transmembrane mucin
+
+  Mucosal Barrier & Defense:
+    weight: 1.0
+    keywords:
+      - mucosal barrier
+      - mucosal health
+      - mucosal surface
+      - mucosal immunity
+      - mucosal defense
+      - epithelial barrier
+      - barrier function
+      - barrier integrity
+      - mucus barrier
+      - mucosal protection
+      - mucosal homeostasis
+      - intestinal barrier
+
+  Biomanufacturing & Fermentation:
+    weight: 1.0
+    keywords:
+      - biomanufacturing
+      - bacterial fermentation
+      - fermentation
+      - bioprocess
+      - scale-up
+      - GMP manufacturing
+      - biologics manufacturing
+      - live biotherapeutic
+      - LBP
+      - recombinant protein
+      - bioprocess optimization
+      - upstream processing
+      - downstream processing
+      - cell factory
+
+  Microbiome & Prebiotics:
+    weight: 1.0
+    keywords:
       - microbiome
-      - dysbiosis
+      - microbiota
       - probiotic
       - prebiotic
       - synbiotic
       - postbiotic
-      - 16S rRNA
-      - metagenomics
-      - shotgun sequencing
-      - microbiota
+      - dysbiosis
       - commensal bacteria
       - Lactobacillus
       - Bifidobacterium
+      - gut microbiome
+      - microbial community
+      - metagenomics
 
-  Infant Nutrition:
+  Glycans & Glycobiology:
     weight: 1.0
     keywords:
-      - infant nutrition
+      - glycan
+      - glycoprotein
+      - glycosylation
+      - O-glycosylation
+      - N-glycosylation
+      - glycobiology
+      - sialylation
+      - fucosylation
+      - oligosaccharides
+      - glycomics
+
+  Infant Nutrition & Human Milk:
+    weight: 1.0
+    keywords:
       - breast milk
+      - human milk
+      - infant formula
       - human milk oligosaccharides
       - HMO
       - lactoferrin
-      - infant formula
       - neonatal nutrition
-      - pediatric nutrition
-      - breastfeeding
-      - complementary feeding
       - infant gut
       - neonatal microbiome
+      - breast milk composition
+      - maternal milk
+      - pediatric nutrition
 
-  Women's Health / Vaginal:
+  Gut Health & GI Diseases:
+    weight: 0.9
+    keywords:
+      - inflammatory bowel disease
+      - IBD
+      - ulcerative colitis
+      - Crohn's disease
+      - leaky gut
+      - intestinal permeability
+      - gut inflammation
+      - colitis
+      - gastrointestinal health
+      - FMT
+      - short-chain fatty acids
+      - SCFA
+      - gut-brain axis
+
+  Women's Health:
     weight: 0.9
     keywords:
       - vaginal microbiome
       - bacterial vaginosis
       - BV
-      - vulvovaginal candidiasis
-      - VVC
-      - Lactobacillus crispatus
-      - vaginal dysbiosis
-      - cervicovaginal
-      - reproductive tract microbiome
       - vaginal dryness
-      - vaginal atrophy
-      - urogenital health
-      - pelvic floor
-      - vulvovaginal
-      - feminine health
-      - urinary tract infection
-      - UTI
-      - recurrent UTI
-      - estrogen deficiency
-      - women's health
-      - female reproductive health
-      - endometriosis
-      - polycystic ovary syndrome
-      - PCOS
+      - vaginal health
       - menopause
-      - menopausal
-      - perimenopause
-      - postmenopause
-      - genitourinary syndrome of menopause
-      - GSM
-      - vulvovaginal atrophy
-      - hormone replacement therapy
-      - HRT
+      - urogenital health
+      - vulvovaginal
+      - women's health
+      - reproductive health
+      - vaginal dysbiosis
+      - feminine health
 
-  Gut Health / Mucosal Barrier:
-    weight: 1.0
-    keywords:
-      - mucosal barrier
-      - mucosal health
-      - mucus
-      - mucin
-      - goblet cells
-      - intestinal barrier
-      - epithelial barrier
-      - tight junctions
-      - intestinal permeability
-      - leaky gut
-      - mucosal defense
-      - mucosal immunity
-      - inflammatory bowel disease
-      - IBD
-      - ulcerative colitis
-      - Crohn's disease
-      - irritable bowel syndrome
-      - IBS
-      - gut inflammation
-      - colitis
-      - gastrointestinal health
-      - intestinal inflammation
-      - gut-brain axis
-      - microbiome-gut axis
-      - fecal microbiota transplant
-      - FMT
-      - short-chain fatty acids
-      - SCFA
-
-  Skin Microbiome:
+  Skin Health:
     weight: 0.8
     keywords:
       - skin microbiome
-      - cutaneous microbiome
       - skin barrier
-      - atopic dermatitis microbiome
+      - atopic dermatitis
+      - cutaneous microbiome
       - skin commensals
       - dermal microbiota
+      - wound healing
+      - skin integrity
 
-  Glycans / Glycoproteins:
-    weight: 1.0
-    keywords:
-      - glycan displaying protein
-      - glycoproteins
-      - glycosylation
-      - O-glycosylation
-      - N-glycosylation
-      - mucin glycoprotein
-      - glycobiology
-      - glycan structures
-      - sialylation
-      - fucosylation
-
-  Inflammatory Diseases:
+  Inflammatory & Immune:
     weight: 0.9
     keywords:
       - chronic inflammation
-      - inflammatory disease
       - autoimmune disease
-      - mucosal inflammation
-      - immune-mediated
-      - anti-inflammatory
       - immunomodulation
-      - inflammatory biomarkers
+      - anti-inflammatory
+      - mucosal inflammation
       - cytokine
-      - TNF-alpha
-      - interleukin
       - innate immunity
       - adaptive immunity
       - immune response
       - immune barrier
-      - inflammation resolution
+      - inflammatory biomarkers
+      - immune-mediated
 
-  Biomanufacturing:
-    weight: 0.7
-    keywords:
-      - biomanufacturing
-      - biomanufacturing scale up
-      - bioprocess
-      - fermentation
-      - cell culture manufacturing
-      - GMP manufacturing
-      - biologics manufacturing
-      - live biotherapeutic products
-      - LBP
-      - mucosal delivery
-
-  Microbiome-related Diseases:
-    weight: 0.9
-    keywords:
-      - C. difficile
-      - Clostridioides difficile
-      - SIBO
-      - colorectal cancer microbiome
-      - necrotizing enterocolitis
-      - NEC
-      - metabolic syndrome
-      - obesity microbiome
-      - type 2 diabetes microbiome
-      - liver disease microbiome
-      - NAFLD
-      - allergies microbiome
-      - respiratory microbiome
-
-  Nutrition:
+  Respiratory & Ocular Mucosal Health:
     weight: 0.8
     keywords:
-      - nutrition
-      - dietary intervention
-      - functional foods
-      - nutraceuticals
-      - medical nutrition therapy
-      - personalized nutrition
-      - nutrigenomics
-      - food as medicine
+      - respiratory mucosa
+      - airway mucus
+      - airway health
+      - dry eye
+      - tear film
+      - ocular surface
+      - nasal mucosa
+      - cystic fibrosis
+      - COPD
+      - chronic obstructive pulmonary
+      - respiratory health
+      - pulmonary mucus
 
 scoring:
   keyword_weight: 0.60

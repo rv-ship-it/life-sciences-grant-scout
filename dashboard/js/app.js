@@ -85,8 +85,8 @@ function renderCard(opp) {
     const topics = (opp.matched_topics || []).slice(0, 4).join(', ');
     const desc = (opp.description || '').substring(0, 200);
 
-    const scoreColor = opp.combined_score > 60 ? '#22c55e'
-        : opp.combined_score > 30 ? '#eab308' : '#9ca3af';
+    const scoreColor = opp.combined_score > 30 ? '#22c55e'
+        : opp.combined_score > 10 ? '#eab308' : '#9ca3af';
 
     const escapedId = opp.id.replace(/'/g, "\\'");
 
@@ -133,6 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('filter-topic').addEventListener('change', applyFilters);
     document.getElementById('filter-eligibility').addEventListener('change', applyFilters);
     document.getElementById('sort-by').addEventListener('change', applyFilters);
+    document.getElementById('filter-relevant').addEventListener('change', applyFilters);
     document.getElementById('filter-priority').addEventListener('change', applyFilters);
     document.getElementById('modal-close').addEventListener('click', closeModal);
     document.getElementById('detail-modal').addEventListener('click', (e) => {

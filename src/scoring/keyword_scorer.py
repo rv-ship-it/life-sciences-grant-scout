@@ -10,8 +10,8 @@ class KeywordScorer:
     Algorithm:
     1. For each topic, count distinct keyword matches in title + description.
     2. Per-topic score = (matched / total) * 100 * weight.
-    3. Title matches get a 1.3x bonus.
-    4. Final score = average of top-3 topic scores, capped at 100.
+    3. Title matches get a 2.0x bonus.
+    4. Final score = sum of top-3 topic scores, capped at 100.
     """
 
     def __init__(self, topics_config: dict):
@@ -41,7 +41,7 @@ class KeywordScorer:
             if hits:
                 base_score = (len(hits) / len(patterns)) * 100.0
                 if has_title_hit:
-                    base_score = min(100.0, base_score * 1.3)
+                    base_score = min(100.0, base_score * 2.0)
                 weighted_score = base_score * weight
 
                 topic_scores.append(TopicScore(
@@ -56,7 +56,7 @@ class KeywordScorer:
             return 0.0, []
 
         top_n = topic_scores[:3]
-        combined = sum(ts.score for ts in top_n) / len(top_n)
+        combined = sum(ts.score for ts in top_n)
         combined = min(100.0, round(combined, 1))
 
         return combined, topic_scores

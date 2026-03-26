@@ -60,11 +60,14 @@ semantic_scoring:
   batch_size: 10
   batch_delay: 5
   company_context: >
-    A life sciences startup developing glycan-displaying protein technology
-    for mucosal health, with focus areas in infant nutrition (breast milk
-    components, HMOs), women's health (vaginal microbiome, menopause, GSM),
-    gut health (mucosal barrier, IBD), inflammatory diseases, skin microbiome,
-    and biomanufacturing of live biotherapeutic products.
+    A life sciences startup that biomanufactures mucins through bacterial
+    fermentation at low cost and scale. Mucins are the main component of mucus.
+    Mucosal surfaces cover the body and protect against environment, shape
+    immunity, defend against pathogens, and enable essential functions from
+    breathing to digestion to sight. Applications include prebiotics (bacteria
+    utilize sugars on mucins), infant formula (mucins in maternal milk),
+    gut/vaginal health, skin microbiome, respiratory and ocular mucosal health,
+    and biomanufacturing of glycoprotein-based therapeutics.
 
 output:
   dir: "output"

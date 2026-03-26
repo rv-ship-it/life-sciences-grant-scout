@@ -3,6 +3,7 @@ function applyFilters() {
     const sourceFilter = document.getElementById('filter-source').value;
     const topicFilter = document.getElementById('filter-topic').value;
     const eligFilter = document.getElementById('filter-eligibility').value;
+    const relevantOnly = document.getElementById('filter-relevant').checked;
     const priorityOnly = document.getElementById('filter-priority').checked;
     const sortBy = document.getElementById('sort-by').value;
 
@@ -20,6 +21,8 @@ function applyFilters() {
         if (eligFilter === 'startup' && !opp.startup_eligible) return false;
         if (eligFilter === 'consortium' && !opp.consortium_eligible) return false;
         if (eligFilter === 'both' && !(opp.startup_eligible && opp.consortium_eligible)) return false;
+        // Relevant only
+        if (relevantOnly && opp.combined_score === 0) return false;
         // Priority
         if (priorityOnly && !opp.high_priority) return false;
 
