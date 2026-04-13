@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-04-06
+# Grant Scout Report -- 2026-04-13
 
 ## Summary
 
-- **Total**: 898 opportunities across 7 sources
+- **Total**: 911 opportunities across 7 sources
 - **High priority**: 1 opportunities
-- **Startup-eligible**: 244
-- **Consortium-eligible**: 133
+- **Startup-eligible**: 247
+- **Consortium-eligible**: 132
 
 ## Top Opportunities
 

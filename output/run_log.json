@@ -1,16 +1,16 @@
 {
-  "started_at": "2026-04-06T11:15:03.455404",
+  "started_at": "2026-04-13T09:59:34.121215",
   "sources": {
     "NIH Guide": {
-      "fetched": 4,
+      "fetched": 3,
       "status": "ok"
     },
     "SBIR/STTR": {
-      "fetched": 257,
+      "fetched": 260,
       "status": "ok"
     },
     "Grants.gov": {
-      "fetched": 934,
+      "fetched": 948,
       "status": "ok"
     },
     "EU Funding Portal": {
@@ -31,9 +31,9 @@
     }
   },
   "errors": [],
-  "expired_removed": 200,
-  "completed_at": "2026-04-06T11:19:20.032088",
-  "total_opportunities": 898,
+  "expired_removed": 201,
+  "completed_at": "2026-04-13T10:03:33.098296",
+  "total_opportunities": 911,
   "high_priority_count": 1,
-  "startup_eligible_count": 244
+  "startup_eligible_count": 247
 }
