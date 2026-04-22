@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-04-20
+# Grant Scout Report -- 2026-04-22
 
 ## Summary
 
-- **Total**: 901 opportunities across 7 sources
+- **Total**: 906 opportunities across 7 sources
 - **High priority**: 1 opportunities
-- **Startup-eligible**: 245
-- **Consortium-eligible**: 124
+- **Startup-eligible**: 250
+- **Consortium-eligible**: 123
 
 ## Top Opportunities
 
@@ -149,15 +149,7 @@
 - ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03)
 
-### 18. Biotech for Climate Resilient Crops and Plant-Based Biomanufacturing **[CONSORTIUM]**
-- **Score**: 14.3/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: Yes
-- **Topics**: Biomanufacturing & Fermentation
-- ...
-- [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01)
-
-### 19. Support to the EU Biotechnology and Biomanufacturing Initiative: scoping action **[CONSORTIUM]**
+### 18. Support to the EU Biotechnology and Biomanufacturing Initiative: scoping action **[CONSORTIUM]**
 - **Score**: 14.3/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -165,7 +157,7 @@
 - ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2025-01-CIRCBIO-10)
 
-### 20. Clever Combination of Synthetic Compartmentalization, Carbon Fixation and Compound Biomanufacturing **[CONSORTIUM]**
+### 19. Clever Combination of Synthetic Compartmentalization, Carbon Fixation and Compound Biomanufacturing **[CONSORTIUM]**
 - **Score**: 14.3/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -175,7 +167,7 @@
 Tags: C5...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/101223091)
 
-### 21. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
+### 20. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -183,7 +175,7 @@ Tags: C5...
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center (RFA-DK-27-124)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360622)
 
-### 22. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
+### 21. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -191,7 +183,7 @@ Tags: C5...
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers (RFA-DK-27-116)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360621)
 
-### 23. Supporting pre-normative research for standardization of the bio-based products **[STARTUP]** **[CONSORTIUM]**
+### 22. Supporting pre-normative research for standardization of the bio-based products **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 7.1/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: 2026-09-17
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -199,7 +191,7 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all of the following expected outcomes: higher and more robust industrial European competitiveness, decarbonisation and strategic autonomy, advancing the lead market for bio-based industry; improved environmental sustainability, with po...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-08)
 
-### 24. Towards a Europe of Bioeconomy Places **[STARTUP]** **[CONSORTIUM]**
+### 23. Towards a Europe of Bioeconomy Places **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 7.1/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: 2027-09-22
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -207,10 +199,19 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all of the following expected outcomes: improved attractiveness of places through a systemic transition to “Bioeconomy Places” [1] , leading to increased investment in the bio-based sectors, job creation and overall well-being of the po...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-06)
 
-### 25. International dimension of the circular bio-based economy: seeking win-win opportunities **[CONSORTIUM]**
+### 24. International dimension of the circular bio-based economy: seeking win-win opportunities **[CONSORTIUM]**
 - **Score**: 7.1/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: 2027-05-11
 - **Startup eligible**: No | **Consortium**: Yes
 - **Topics**: Biomanufacturing & Fermentation
 - Expected Outcome: Project results are expected to contribute to all of the following expected outcomes: improved multi-level governance capable of anticipating a changing world and enabling a just sustainable transition for all, as related to the potential of bio-based innovation and industry in the...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-03-GOVERNANCE-03)
+
+### 25. Cost-Disrupting Innovations to Reduce the Cost of Ready-to-Use Therapeutic Food
+- **Score**: 7.1/100 | **Source**: Grand Challenges | **Agency**: Gates Foundation
+- **Deadline**: 2026-04-28
+- **Max award**: USD 1,500,000
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: Biomanufacturing & Fermentation
+- Cost-Disrupting Innovations to Reduce the Cost of Ready-to-Use Therapeutic Food Before applying, applicants should familiarize themselves with the supporting documents for this Grand Challenge, including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application Instru...
+- [View full announcement](https://gcgh.grandchallenges.org/challenge/cost-disrupting-innovations-reduce-cost-ready-use-therapeutic-food)
