@@ -78,7 +78,12 @@ class Pipeline:
 
         # Stage 3: KEYWORD SCORING
         logger.info("Running keyword scoring...")
-        keyword_scorer = KeywordScorer(self.topics["topics"])
+        scoring_cfg = self.topics.get("scoring", {})
+        keyword_scorer = KeywordScorer(
+            self.topics["topics"],
+            exclusion_keywords=self.topics.get("exclusion_keywords", []),
+            exclusion_penalty_per_hit=scoring_cfg.get("exclusion_penalty_per_hit", 8.0),
+        )
         for opp in all_opps:
             score, topic_scores = keyword_scorer.score(opp.title, opp.description)
             opp.keyword_score = score

@@ -181,6 +181,38 @@ scoring:
   semantic_weight: 0.40
   high_priority_score_threshold: 40
   high_priority_deadline_days: 60
+  exclusion_penalty_per_hit: 8.0
+
+# Terms that indicate the grant is NOT health/biotech (industrial bio-based,
+# sustainability, agriculture, etc.). Each match subtracts exclusion_penalty_per_hit
+# from the combined score. Prevents false positives on "biomanufacturing" terms
+# used in non-health contexts.
+exclusion_keywords:
+  - bio-based materials
+  - bio-based products
+  - bio-based processes
+  - bio-based sector
+  - bio-based solutions
+  - circular economy
+  - circular bioeconomy
+  - circular value chains
+  - bioeconomy
+  - decarbonisation
+  - decarbonization
+  - climate neutral
+  - climate resilient
+  - biodiversity
+  - renewable energy
+  - biomass feedstock
+  - waste valorisation
+  - waste valorization
+  - carbon capture
+  - clean industrial
+  - industrial biotechnology
+  - aquaculture
+  - forestry
+  - agricultural residues
+  - crop
 
 eligibility_flags:
   startup_keywords:
