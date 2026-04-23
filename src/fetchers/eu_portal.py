@@ -104,6 +104,13 @@ class EUPortalFetcher(BaseFetcher):
         start_str = self._get_first(meta, "startDate")
         budget = self._parse_budget(meta)
 
+        # Parse deadline, or infer from identifier year as fallback
+        # (many EU calls return no deadline field; the identifier year lets
+        # us filter out obviously expired calls like EU4H-2023-PJ-08)
+        deadline = self._parse_date(deadline_str)
+        if deadline is None:
+            deadline = self._infer_deadline_from_identifier(identifier)
+
         action_type = self._get_first(meta, "typesOfAction") or ""
         call_id = self._get_first(meta, "callIdentifier") or ""
         call_title = self._get_first(meta, "callTitle") or ""
@@ -117,7 +124,7 @@ class EUPortalFetcher(BaseFetcher):
             agency=call_id.split("-")[0] if call_id else "EU",
             activity_type=ActivityType.GRANT,
             posted_date=self._parse_date(start_str),
-            deadline=self._parse_date(deadline_str),
+            deadline=deadline,
             award_ceiling=budget,
             currency="EUR",
             startup_eligible=False,  # Detected by eligibility parser
@@ -145,6 +152,27 @@ class EUPortalFetcher(BaseFetcher):
                 return datetime.strptime(clean, fmt).date()
             except ValueError:
                 continue
+        return None
+
+    def _infer_deadline_from_identifier(self, identifier: str) -> date | None:
+        """Extract year from EU call identifier (e.g. EU4H-2023-PJ-08 -> 2023)
+        and return December 31 of that year as a fallback deadline. Used when
+        the API doesn't provide a deadline, so the pipeline's expired filter
+        can drop clearly old calls.
+        """
+        if not identifier:
+            return None
+        m = re.search(r"-(20\d{2})-", identifier)
+        if not m:
+            return None
+        try:
+            year = int(m.group(1))
+        except ValueError:
+            return None
+        # Only backdate if year is in the past; leave future/current-year
+        # calls unchanged so they remain visible
+        if year < date.today().year:
+            return date(year, 12, 31)
         return None
 
     def _parse_budget(self, meta: dict) -> int | None:
