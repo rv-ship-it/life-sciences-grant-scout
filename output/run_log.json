@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-04-23T13:55:28.573626",
+  "started_at": "2026-04-23T14:01:02.576952",
   "sources": {
     "NIH Guide": {
       "fetched": 6,
@@ -32,7 +32,7 @@
   },
   "errors": [],
   "expired_removed": 374,
-  "completed_at": "2026-04-23T13:59:48.743775",
+  "completed_at": "2026-04-23T14:08:16.710906",
   "total_opportunities": 884,
   "high_priority_count": 1,
   "startup_eligible_count": 251
