@@ -33,6 +33,13 @@ class EUPortalFetcher(BaseFetcher):
             "bacterial vaginosis OR endometriosis OR PCOS",
             "nutraceutical OR functional food OR personalized nutrition",
             "Clostridioides difficile OR necrotizing enterocolitis",
+            # Programme-specific searches (EIC, EU4Health, IHI)
+            "EIC Accelerator",
+            "EIC Pathfinder",
+            "EIC Transition",
+            "EU4Health",
+            "Innovative Health Initiative",
+            "IHI JU",
         ]
 
         for search_text in search_terms:

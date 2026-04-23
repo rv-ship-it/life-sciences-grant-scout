@@ -1,12 +1,12 @@
 {
-  "started_at": "2026-04-22T13:23:29.356053",
+  "started_at": "2026-04-23T13:40:58.534336",
   "sources": {
     "NIH Guide": {
       "fetched": 6,
       "status": "ok"
     },
     "SBIR/STTR": {
-      "fetched": 257,
+      "fetched": 256,
       "status": "ok"
     },
     "Grants.gov": {
@@ -14,7 +14,7 @@
       "status": "ok"
     },
     "EU Funding Portal": {
-      "fetched": 277,
+      "fetched": 465,
       "status": "ok"
     },
     "Grand Challenges": {
@@ -22,7 +22,7 @@
       "status": "ok"
     },
     "Innovation Fund Denmark": {
-      "fetched": 5,
+      "fetched": 6,
       "status": "ok"
     },
     "Wellcome Leap": {
@@ -31,9 +31,9 @@
     }
   },
   "errors": [],
-  "expired_removed": 188,
-  "completed_at": "2026-04-22T13:28:43.597611",
-  "total_opportunities": 906,
+  "expired_removed": 307,
+  "completed_at": "2026-04-23T13:45:06.880939",
+  "total_opportunities": 951,
   "high_priority_count": 1,
-  "startup_eligible_count": 250
+  "startup_eligible_count": 251
 }
