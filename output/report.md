@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-04-23
+# Grant Scout Report -- 2026-04-27
 
 ## Summary
 
-- **Total**: 884 opportunities across 7 sources
+- **Total**: 888 opportunities across 7 sources
 - **High priority**: 1 opportunities
-- **Startup-eligible**: 251
-- **Consortium-eligible**: 100
+- **Startup-eligible**: 248
+- **Consortium-eligible**: 101
 
 ## Top Opportunities
 
@@ -144,7 +144,55 @@ Tags: C5...
 - Cost-Disrupting Innovations to Reduce the Cost of Ready-to-Use Therapeutic Food Before applying, applicants should familiarize themselves with the supporting documents for this Grand Challenge, including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application Instru...
 - [View full announcement](https://gcgh.grandchallenges.org/challenge/cost-disrupting-innovations-reduce-cost-ready-use-therapeutic-food)
 
-### 17. Update - NIH Implementation of Uniform Administrative Requirements for Federal Financial Assistance
+### 17. NIA Caenorhabditis Interventions Testing Program (CITP) Announces Annual Call for Compounds to Test for Lifespan Extension in Caenorhabditis
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-AG-26-005 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-005.html)
+
+### 18. Notice to Rescind NOT-AG-21-055, "NIA Announces Guidance for Purchasing Identifiable Centers for Medicare and Medicaid Services (CMS) Data in Grant Applications Effective FY 2022"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIA
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-AG-26-006 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-006.html)
+
+### 19. Request for Information (RFI): Future Directions for the NLM Information Resource Grants (G08) Program
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-LM-26-001 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-LM-26-001.html)
+
+### 20. Notice to Rescind NOT-NS-24-079 "NINDS Policy for applications requesting $500,000 or more in direct costs in any year (excluding consortium F and A)on NIH Parent R01 Notices of Funding Opportunities" **[CONSORTIUM]**
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NINDS
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: Yes
+- **Topics**: None
+- Notice NOT-NS-26-038 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-038.html)
+
+### 21. Request for Information (RFI): Promoting Youth Participatory Action Research Approaches in Prevention Research
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-065 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-065.html)
+
+### 22. Notice to Rescind NOT-OD-23-075 "Office of Research Infrastructure Programs (ORIP) implementation of NIH Policy on Acceptance for Review of Applications Requesting $500,000 or More in Direct Costs in Any One Budget Year"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: OD
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-071 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-071.html)
+
+### 23. Update - NIH Implementation of Uniform Administrative Requirements for Federal Financial Assistance
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
@@ -152,7 +200,7 @@ Tags: C5...
 - Notice NOT-OD-26-072 from the NIH Guide for Grants and Contracts...
 - [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-072.html)
 
-### 18. Notice of Information: Implementation of HHS Annual SBIR/STTR Application/Proposal Limit **[STARTUP]**
+### 24. Notice of Information: Implementation of HHS Annual SBIR/STTR Application/Proposal Limit **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -160,58 +208,10 @@ Tags: C5...
 - Notice NOT-OD-26-073 from the NIH Guide for Grants and Contracts...
 - [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-073.html)
 
-### 19. Notice of Information: Policy Changes to SBIR and STTR Foreign Disclosure and Risk Management **[STARTUP]**
+### 25. Notice of Information: Policy Changes to SBIR and STTR Foreign Disclosure and Risk Management **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - Notice NOT-OD-26-074 from the NIH Guide for Grants and Contracts...
 - [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-074.html)
-
-### 20. Notice of Information: Policy changes to SBIR and STTR Discretionary Technical and Business Assistance **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Notice NOT-OD-26-075 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-075.html)
-
-### 21. Notice to Rescind NOT-OD-24-077 "Technical and Business Assistance (TABA) Funding May be Added to an SBIR/STTR Award by Administrative Supplement" **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: OD
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Notice NOT-OD-26-076 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-076.html)
-
-### 22. Announcement of Upcoming System Enforcement of Common Forms and End of NIHs Leniency Period
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: None
-- Notice NOT-OD-26-079 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-079.html)
-
-### 23. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2028-10-06
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) (RFA-NS-27-001)...
-- [View full announcement](https://www.grants.gov/search-results-detail/358859)
-
-### 24. Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers (RFA-DA-27-007)...
-- [View full announcement](https://www.grants.gov/search-results-detail/360561)
-
-### 25. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359671)
