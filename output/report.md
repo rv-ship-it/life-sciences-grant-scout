@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-05-04
+# Grant Scout Report -- 2026-05-11
 
 ## Summary
 
-- **Total**: 859 opportunities across 6 sources
+- **Total**: 860 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 243
-- **Consortium-eligible**: 102
+- **Startup-eligible**: 247
+- **Consortium-eligible**: 99
 
 ## Top Opportunities
 
@@ -56,7 +56,7 @@
 - **Max award**: USD 50,000,000
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: Microbiome & Prebiotics
-- NEW $50M PROGRAM APPLY NOW ABSTRACT PORTAL WILL OPEN 8 MAY 2026 AT 11:59PM ET. Download the full program announcement here . Fighting Infections. Sparing the Rest. Antibiotics are the foundation of modern medicine. Every year, one in three people worldwide rely on them to treat common conditions lik...
+- NEW $50M PROGRAM APPLY NOW PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 15 May 2026 at 11:59pm ET. Download the full program announcement here . Fighting Infections. Sparing the Rest. Antibiotics are the foundation of modern medicine. Every year, one in three peop...
 - [View full announcement](https://wellcomeleap.org/focused-antibiotics/)
 
 ### 7. Biological Testing Facility for Contraception &amp; Reproductive Health **[STARTUP]**
@@ -93,7 +93,15 @@
 Tags: C5...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/101223091)
 
-### 11. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
+### 11. Advancing the European bio-based innovation enabled by biotechnology and biomanufacturing concepts **[CONSORTIUM]**
+- **Score**: 14.3/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: Yes
+- **Topics**: Biomanufacturing & Fermentation
+- ...
+- [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-01-CIRCBIO-07)
+
+### 12. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -101,7 +109,7 @@ Tags: C5...
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center (RFA-DK-27-124)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360622)
 
-### 12. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
+### 13. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -109,7 +117,7 @@ Tags: C5...
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers (RFA-DK-27-116)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360621)
 
-### 13. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
+### 14. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
 - **Score**: 7.4/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: 2027-09-23
 - **Startup eligible**: No | **Consortium**: Yes
@@ -117,23 +125,23 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 14. Notice of NIAID Participation in RFA-HL-26-017, Catalyze: Product Definition for Small Molecules, Biologics and Combination Products-Target Identification and Validation, and Preliminary Product/Lead Series Identification (R61/R33)
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NHLBI
+### 15. Notice of Change: Expiration of RFA-DK-26-308 Limited Competition Renewal for the Continuation of the Liver Cirrhosis Network: Clinical Research Centers (U01 Clinical Trial Required)
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIDDK
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-AI-26-002 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-002.html)
+- Notice NOT-DK-26-105 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-26-105.html)
 
-### 15. Notice of NIAID Participation in RFA-HL-26-018, Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NHLBI
+### 16. Notice of Change: Expiration of RFA-DK-26-309 -- Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIDDK
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-AI-26-003 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-003.html)
+- Notice NOT-DK-26-106 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-26-106.html)
 
-### 16. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
+### 17. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2028-10-06
 - **Startup eligible**: Yes | **Consortium**: No
@@ -141,7 +149,7 @@ Tags: C5...
 - BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) (RFA-NS-27-001)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358859)
 
-### 17. Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers **[STARTUP]**
+### 18. Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -149,7 +157,7 @@ Tags: C5...
 - Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers (RFA-DA-27-007)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360561)
 
-### 18. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
+### 19. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -157,7 +165,7 @@ Tags: C5...
 - NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359671)
 
-### 19. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
+### 20. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -165,7 +173,7 @@ Tags: C5...
 - NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) (PA-27-101)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359758)
 
-### 20. Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) **[STARTUP]**
+### 21. Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -173,7 +181,7 @@ Tags: C5...
 - Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) (FOR-CA-25-086)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359726)
 
-### 21. Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed) **[STARTUP]**
+### 22. Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -181,7 +189,7 @@ Tags: C5...
 - Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed) (FOR-CA-25-087)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359724)
 
-### 22. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 23. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -189,7 +197,7 @@ Tags: C5...
 - SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) (PAR-27-098)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359669)
 
-### 23. NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) **[STARTUP]**
+### 24. NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -197,18 +205,10 @@ Tags: C5...
 - NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) (TEMP-30794)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358912)
 
-### 24. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 25. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: Yes
 - **Topics**: None
 - NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) (PA-27-102)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359757)
-
-### 25. Distance Learning and Telemedicine Grants **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: USDA-RUS
-- **Deadline**: 2026-06-30
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Distance Learning and Telemedicine Grants (RUS-26-01-DLT)...
-- [View full announcement](https://www.grants.gov/search-results-detail/361474)
