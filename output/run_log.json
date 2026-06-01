@@ -1,20 +1,20 @@
 {
-  "started_at": "2026-05-25T11:55:28.215465",
+  "started_at": "2026-06-01T13:40:13.967863",
   "sources": {
     "NIH Guide": {
-      "fetched": 5,
+      "fetched": 7,
       "status": "ok"
     },
     "SBIR/STTR": {
-      "fetched": 275,
+      "fetched": 285,
       "status": "ok"
     },
     "Grants.gov": {
-      "fetched": 922,
+      "fetched": 923,
       "status": "ok"
     },
     "EU Funding Portal": {
-      "fetched": 485,
+      "fetched": 489,
       "status": "ok"
     },
     "Grand Challenges": {
@@ -31,9 +31,9 @@
     }
   },
   "errors": [],
-  "expired_removed": 389,
-  "completed_at": "2026-05-25T12:01:25.481233",
-  "total_opportunities": 873,
+  "expired_removed": 393,
+  "completed_at": "2026-06-01T13:45:12.646900",
+  "total_opportunities": 874,
   "high_priority_count": 0,
-  "startup_eligible_count": 263
+  "startup_eligible_count": 271
 }
