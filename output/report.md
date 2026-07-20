@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-07-13
+# Grant Scout Report -- 2026-07-20
 
 ## Summary
 
-- **Total**: 776 opportunities across 7 sources
+- **Total**: 731 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 301
-- **Consortium-eligible**: 61
+- **Startup-eligible**: 290
+- **Consortium-eligible**: 58
 
 ## Top Opportunities
 
@@ -96,7 +96,7 @@
 - **Max award**: USD 1,500,000,000
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: Microbiome & Prebiotics
-- NEW $50M PROGRAM With support from Bayer APPLY NOW ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. Download the full program announcement here . Antibiotics are a foundation of modern medicine and have saved hundreds of millions of lives since their discovery. Every year, roughly one in three ...
+- NEW $50M PROGRAM With support from Bayer LEARN MORE ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. Download the full program announcement here . Antibiotics are a foundation of modern ...
 - [View full announcement](https://wellcomeleap.org/programs/resistance-networks/)
 
 ### 12. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
@@ -107,37 +107,37 @@
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 13. Inviting Comments and Suggestions on Topic Areas for the NIDCR Strategic Plan for Fiscal Years 2027-2031
+### 13. Notice of NIMH Participation in PA-25-080 "NIH Support for Conferences and Scientific Meetings (Parent R13 Clinical Trial Not Allowed)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-DE-26-015 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DE-26-015.html)
+- Notice NOT-MH-26-045 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-045.html)
 
-### 14. Notice of Early Expiration of PAR-24-252 "Innovative Programs to Enhance Research Training (IPERT) (R25 Independent Clinical Trial Not Allowed)"
+### 14. Extramural Loan Repayment Program for Clinical Researchers (LRP-CR)
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-GM-26-010 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-010.html)
+- Notice NOT-OD-26-081 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-081.html)
 
-### 15. Notice of Change: Early Expiration of Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)
+### 15. Extramural Loan Repayment Program for Facilitating Opportunities in Cutting-edge Science (LRP-FOCUS)
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-NS-26-040 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-040.html)
+- Notice NOT-OD-26-083 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-083.html)
 
-### 16. Notice of Information: Implementation of HHS Annual SBIR and STTR Application/Proposal Limit **[STARTUP]**
+### 16. Notice of NCATS Participation in Notice of Funding Opportunity (NOFO) PA-25-304 NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
+- **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-OD-26-090 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-090.html)
+- Notice NOT-TR-26-010 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-010.html)
 
 ### 17. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
