@@ -1,16 +1,16 @@
 {
-  "started_at": "2026-08-17T08:46:39.548760",
+  "started_at": "2026-08-24T08:51:17.077145",
   "sources": {
     "NIH Guide": {
-      "fetched": 4,
+      "fetched": 5,
       "status": "ok"
     },
     "SBIR/STTR": {
-      "fetched": 322,
+      "fetched": 323,
       "status": "ok"
     },
     "Grants.gov": {
-      "fetched": 862,
+      "fetched": 871,
       "status": "ok"
     },
     "EU Funding Portal": {
@@ -18,7 +18,7 @@
       "status": "ok"
     },
     "Grand Challenges": {
-      "fetched": 2,
+      "fetched": 3,
       "status": "ok"
     },
     "Innovation Fund Denmark": {
@@ -32,8 +32,8 @@
   },
   "errors": [],
   "expired_removed": 142,
-  "completed_at": "2026-08-17T08:56:24.078924",
-  "total_opportunities": 778,
+  "completed_at": "2026-08-24T09:01:17.659178",
+  "total_opportunities": 791,
   "high_priority_count": 0,
-  "startup_eligible_count": 294
+  "startup_eligible_count": 296
 }
