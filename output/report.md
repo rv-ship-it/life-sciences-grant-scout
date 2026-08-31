@@ -1,10 +1,10 @@
-# Grant Scout Report -- 2026-08-24
+# Grant Scout Report -- 2026-08-31
 
 ## Summary
 
-- **Total**: 791 opportunities across 7 sources
+- **Total**: 796 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 296
+- **Startup-eligible**: 304
 - **Consortium-eligible**: 67
 
 ## Top Opportunities
@@ -98,19 +98,10 @@ Tags: C5...
 - **Max award**: USD 1,500,000,000
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: Microbiome & Prebiotics
-- NEW $50M PROGRAM With support from Bayer LEARN MORE ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. Download the full program ann...
+- NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload you...
 - [View full announcement](https://wellcomeleap.org/programs/resistance-networks/)
 
-### 12. AI-Enabled Consumer Engagement to Advance Family Planning
-- **Score**: 7.5/100 | **Source**: Grand Challenges | **Agency**: Gates Foundation
-- **Deadline**: 2026-08-25
-- **Max award**: USD 500,000
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: Women's Health
-- AI-Enabled Consumer Engagement to Advance Family Planning Before applying to this Grand Challenges request for proposals (RFP), applicants should familiarize themselves with the supporting documents, including the terms and conditions of the Gates Foundation , the Rules and Guidelines , Application ...
-- [View full announcement](https://gcgh.grandchallenges.org/challenge/ai-enabled-consumer-engagement-advance-family-planning)
-
-### 13. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
+### 12. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
 - **Score**: 7.4/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: 2027-09-23
 - **Startup eligible**: No | **Consortium**: Yes
@@ -118,47 +109,63 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 14. Notice of Pre-Application Webinar for PA-27-030: Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)  NIDDK Applicant Information
+### 13. Notice of Correction to Reference Letters Due Date in PAR-27-026, "Avant Garde/Avenir Awards for Investigators Conducting High Risk/High Reward Research on HIV and Substance Use (or Substance Use Disorders) (DP1 Clinical Trial Optional)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-DK-27-402 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DK-27-402.html)
+- Notice NOT-DA-26-016 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-016.html)
 
-### 15. Notice of Informational Webinar on the NIGMS Basic Biomedical Predoctoral T32 Training Programs
+### 14. Notice of Informational Webinar on PAR-27-056 "Limited Competition: Institutional Development Award (IDeA) for Clinical  and  Translational Research (CTR) (P30 - CT Optional)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-GM-26-015 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-015.html)
+- Notice NOT-GM-26-013 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-013.html)
 
-### 16. Notice of Informational Webinar: Overview of NIGMS Training, Research Education and Career Development Programs
+### 15. Notice of Informational Webinar on the NIGMS Small Business Program **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Notice NOT-GM-26-014 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-014.html)
+
+### 16. Notice of Informational Webinar on PAR-27-054 "Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-GM-26-017 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-017.html)
+- Notice NOT-GM-26-020 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-020.html)
 
-### 17. Notice of Informational Webinar on the Instrumentation Grant Program for Resource-Limited Institutions (RLI-S10)
+### 17. Notice of Participation of the National Institute of Nursing Research (NINR) in RFA-OD-27-008, "Maximizing the Scientific Value of Data Generated by the Environmental Influences on Child Health Outcomes (ECHO) Program: NRSA F32"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: OD
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-NR-26-003 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-NR-26-003.html)
+
+### 18. Notice of Change: NINDS Participation in "Bioengineering Research Grants (BRG) (R01 Clinical Trial Optional)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-GM-26-018 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-018.html)
+- Notice NOT-NS-26-042 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-042.html)
 
-### 18. Request for Comment: Draft NIH Biosafety Policy for Research Involving Biohazards
+### 19. Request for Information: Draft NIH Policy on Sharing Summary Level Study Results with Clinical Research Participants
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-OD-26-112 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-112.html)
+- Notice NOT-OD-26-113 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-113.html)
 
-### 19. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 20. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -166,7 +173,7 @@ Tags: C5...
 - NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) (PAR-27-058)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359946)
 
-### 20. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
+### 21. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-01-29
 - **Startup eligible**: Yes | **Consortium**: No
@@ -174,7 +181,7 @@ Tags: C5...
 - Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) (PAR-27-024)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360446)
 
-### 21. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 22. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -182,7 +189,7 @@ Tags: C5...
 - Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) (PAR-27-057)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360160)
 
-### 22. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 23. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -190,7 +197,7 @@ Tags: C5...
 - NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) (PA-27-102)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359757)
 
-### 23. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
+### 24. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-04-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -198,18 +205,10 @@ Tags: C5...
 - NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) (PA-27-101)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359758)
 
-### 24. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
+### 25. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359671)
-
-### 25. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2029-04-05
-- **Startup eligible**: Yes | **Consortium**: Yes
-- **Topics**: None
-- SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) (PAR-27-098)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359669)
