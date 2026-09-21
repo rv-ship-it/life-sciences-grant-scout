@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-09-14
+# Grant Scout Report -- 2026-09-21
 
 ## Summary
 
-- **Total**: 796 opportunities across 7 sources
+- **Total**: 794 opportunities across 6 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 305
-- **Consortium-eligible**: 69
+- **Startup-eligible**: 302
+- **Consortium-eligible**: 64
 
 ## Top Opportunities
 
@@ -98,7 +98,7 @@ Tags: C5...
 - **Max award**: USD 1,500,000,000
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: Microbiome & Prebiotics
-- NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload you...
+- NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW CLOSED. Submissi...
 - [View full announcement](https://wellcomeleap.org/programs/resistance-networks/)
 
 ### 12. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
@@ -109,47 +109,15 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 13. Notice of Pre-Application Technical Assistance Webinar for the Paul B. Beeson Emerging Leaders Career Development Award in Aging
+### 13. Request for Information on Feasibility of Annual Reporting of Live Vertebrate Animal Numbers
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-AG-26-010 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-010.html)
+- Notice NOT-OD-27-001 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-001.html)
 
-### 14. Notice of Pre-Application Technical Assistance Webinar for the Grants for Early Medical/Surgical Specialists' Transition to Aging Research (GEMSSTAR) Program
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: None
-- Notice NOT-AG-26-011 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-011.html)
-
-### 15. Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: None
-- Notice NOT-NR-26-001 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-NR-26-001.html)
-
-### 16. Notice of Change to Eligible Organizations for PAR-26-106 "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)" **[CONSORTIUM]**
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: Yes
-- **Topics**: None
-- Notice NOT-OD-26-089 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-089.html)
-
-### 17. Continuation of Modifications to Peer Review Practices
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: None
-- Notice NOT-OD-26-114 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-114.html)
-
-### 18. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 14. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -157,7 +125,7 @@ Tags: C5...
 - NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) (PAR-27-058)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359946)
 
-### 19. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
+### 15. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-01-29
 - **Startup eligible**: Yes | **Consortium**: No
@@ -165,7 +133,7 @@ Tags: C5...
 - Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) (PAR-27-024)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360446)
 
-### 20. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 16. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -173,7 +141,7 @@ Tags: C5...
 - Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) (PAR-27-057)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360160)
 
-### 21. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 17. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -181,7 +149,7 @@ Tags: C5...
 - NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) (PA-27-102)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359757)
 
-### 22. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
+### 18. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-04-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -189,7 +157,7 @@ Tags: C5...
 - NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) (PA-27-101)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359758)
 
-### 23. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
+### 19. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -197,7 +165,7 @@ Tags: C5...
 - NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359671)
 
-### 24. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 20. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-04-05
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -205,10 +173,42 @@ Tags: C5...
 - SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) (PAR-27-098)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359669)
 
-### 25. Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) **[STARTUP]**
+### 21. Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) (PAR-27-039)...
 - [View full announcement](https://www.grants.gov/search-results-detail/362576)
+
+### 22. Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: 2029-02-06
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) (PAR-27-032)...
+- [View full announcement](https://www.grants.gov/search-results-detail/360593)
+
+### 23. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: 2028-10-06
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) (RFA-NS-27-001)...
+- [View full announcement](https://www.grants.gov/search-results-detail/358859)
+
+### 24. Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) (FOR-CA-25-086)...
+- [View full announcement](https://www.grants.gov/search-results-detail/359726)
+
+### 25. Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed) (FOR-CA-25-087)...
+- [View full announcement](https://www.grants.gov/search-results-detail/359724)
