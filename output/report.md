@@ -1,21 +1,21 @@
-# Grant Scout Report -- 2026-09-28
+# Grant Scout Report -- 2026-10-05
 
 ## Summary
 
-- **Total**: 793 opportunities across 6 sources
+- **Total**: 772 opportunities across 5 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 304
-- **Consortium-eligible**: 64
+- **Startup-eligible**: 286
+- **Consortium-eligible**: 62
 
 ## Top Opportunities
 
-### 1. Wellcome Leap: FORM | Wellcome Leap: Unconventional Projects. Funded at Scale. **[CONSORTIUM]**
+### 1. Wellcome Leap: FORM **[CONSORTIUM]**
 - **Score**: 31.4/100 | **Source**: Wellcome Leap | **Agency**: Wellcome Leap
 - **Deadline**: Rolling/TBD
 - **Max award**: USD 50,000,000
 - **Startup eligible**: No | **Consortium**: Yes
 - **Topics**: Microbiome & Prebiotics, Infant Nutrition & Human Milk
-- NEW $50M Program Foundations of a Resilient Microbiome APPLY NOW We are pleased to announce the selected performers . Kiran Raosaheb Patil, University of Cambridge Laurel Gabard-Durnam, Northeastern University Samuel Forster, Hudson Institute of Medical Research Michelle A. O’Malley, University of C...
+- FORM NEW $50M Program Foundations of a Resilient Microbiome APPLY NOW We are pleased to announce the selected performers . Kiran Raosaheb Patil, University of Cambridge Laurel Gabard-Durnam, Northeastern University Samuel Forster, Hudson Institute of Medical Research Michelle A. O’Malley, University...
 - [View full announcement](https://wellcomeleap.org/programs/form/)
 
 ### 2. Maternal Medications and Human Milk Research Center (M2HMRC) **[STARTUP]**
@@ -42,7 +42,16 @@
 - ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN)
 
-### 5. Biological Testing Facility for Contraception &amp; Reproductive Health (X01 Clinical Trial Not Allowed) **[STARTUP]**
+### 5. Wellcome Leap: Focused Antibiotics
+- **Score**: 15.4/100 | **Source**: Wellcome Leap | **Agency**: Wellcome Leap
+- **Deadline**: Rolling/TBD
+- **Max award**: USD 50,000,000
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: Microbiome & Prebiotics
+- Focused Antibiotics NEW $50M PROGRAM APPLY NOW We are pleased to announce the selected performers . Matthew Bogyo, Stanford University Serena de Gelidi, Calla Lily Clinical Care Cesar de la Fuente, University of Pennsylvania Allan Gamble, University of Otago Chandramowli Ganesh, Tranalab Private Lim...
+- [View full announcement](https://wellcomeleap.org/programs/focused-antibiotics/)
+
+### 6. Biological Testing Facility for Contraception &amp; Reproductive Health (X01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 15.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-05-07
 - **Startup eligible**: Yes | **Consortium**: No
@@ -50,7 +59,7 @@
 - Biological Testing Facility for Contraception &amp; Reproductive Health (X01 Clinical Trial Not Allowed) (PAR-27-111)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360583)
 
-### 6. Immune Drivers of Autoimmune Disease
+### 7. Immune Drivers of Autoimmune Disease
 - **Score**: 15.0/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
@@ -58,7 +67,7 @@
 - Immune Drivers of Autoimmune Disease (RFA-AI-28-011)...
 - [View full announcement](https://www.grants.gov/search-results-detail/363942)
 
-### 7. Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional)
+### 8. Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional)
 - **Score**: 15.0/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: 2028-01-07
 - **Startup eligible**: No | **Consortium**: No
@@ -66,7 +75,7 @@
 - Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional) (PAR-25-281)...
 - [View full announcement](https://www.grants.gov/search-results-detail/357341)
 
-### 8. Clever Combination of Synthetic Compartmentalization, Carbon Fixation and Compound Biomanufacturing **[CONSORTIUM]**
+### 9. Clever Combination of Synthetic Compartmentalization, Carbon Fixation and Compound Biomanufacturing **[CONSORTIUM]**
 - **Score**: 14.3/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -76,7 +85,7 @@
 Tags: C5...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/101223091)
 
-### 9. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
+### 10. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
@@ -84,22 +93,13 @@ Tags: C5...
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center (RFA-DK-27-124)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360622)
 
-### 10. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
+### 11. The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers **[CONSORTIUM]**
 - **Score**: 13.8/100 | **Source**: Grants.gov | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: Yes
 - **Topics**: Gut Health & GI Diseases
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers (RFA-DK-27-116)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360621)
-
-### 11. Wellcome Leap: Resistance Networks | Wellcome Leap: Unconventional Projects. Funded at Scale.
-- **Score**: 7.7/100 | **Source**: Wellcome Leap | **Agency**: Wellcome Leap
-- **Deadline**: Rolling/TBD
-- **Max award**: USD 1,500,000,000
-- **Startup eligible**: No | **Consortium**: No
-- **Topics**: Microbiome & Prebiotics
-- NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW CLOSED. Submissi...
-- [View full announcement](https://wellcomeleap.org/programs/resistance-networks/)
 
 ### 12. Microbiome for terrestrial livestock sustainability and health within a One Health approach **[CONSORTIUM]**
 - **Score**: 7.4/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
@@ -109,7 +109,15 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 13. NIH Operates Under a Continuing Resolution
+### 13. Notice of Change in Application Due Date for RFA-CA-27-005 "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NCI
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-020.html)
+
+### 14. NIH Operates Under a Continuing Resolution
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
@@ -117,7 +125,7 @@ Tags: C5...
 - Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts...
 - [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-131.html)
 
-### 14. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
+### 15. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2026-11-10
 - **Startup eligible**: Yes | **Consortium**: No
@@ -125,7 +133,7 @@ Tags: C5...
 - Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) (RFA-OD-27-009)...
 - [View full announcement](https://www.grants.gov/search-results-detail/362965)
 
-### 15. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 16. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -133,7 +141,7 @@ Tags: C5...
 - NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) (PAR-27-058)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359946)
 
-### 16. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
+### 17. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-01-29
 - **Startup eligible**: Yes | **Consortium**: No
@@ -141,7 +149,7 @@ Tags: C5...
 - Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) (PAR-27-024)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360446)
 
-### 17. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 18. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -149,7 +157,7 @@ Tags: C5...
 - Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) (PAR-27-057)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360160)
 
-### 18. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 19. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -157,7 +165,7 @@ Tags: C5...
 - NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) (PA-27-102)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359757)
 
-### 19. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
+### 20. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-04-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -165,7 +173,7 @@ Tags: C5...
 - NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) (PA-27-101)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359758)
 
-### 20. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
+### 21. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2027-04-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -173,7 +181,7 @@ Tags: C5...
 - NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359671)
 
-### 21. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
+### 22. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-04-05
 - **Startup eligible**: Yes | **Consortium**: Yes
@@ -181,7 +189,7 @@ Tags: C5...
 - SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) (PAR-27-098)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359669)
 
-### 22. Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) **[STARTUP]**
+### 23. Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: Yes | **Consortium**: No
@@ -189,7 +197,7 @@ Tags: C5...
 - Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) (PAR-27-039)...
 - [View full announcement](https://www.grants.gov/search-results-detail/362576)
 
-### 23. Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) **[STARTUP]**
+### 24. Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-02-06
 - **Startup eligible**: Yes | **Consortium**: No
@@ -197,18 +205,10 @@ Tags: C5...
 - Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) (PAR-27-032)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360593)
 
-### 24. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
+### 25. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2028-10-06
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) (RFA-NS-27-001)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358859)
-
-### 25. Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional) (FOR-CA-25-086)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359726)
