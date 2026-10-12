@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-10-05
+# Grant Scout Report -- 2026-10-12
 
 ## Summary
 
-- **Total**: 772 opportunities across 5 sources
+- **Total**: 766 opportunities across 5 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 286
-- **Consortium-eligible**: 62
+- **Startup-eligible**: 293
+- **Consortium-eligible**: 50
 
 ## Top Opportunities
 
@@ -109,23 +109,79 @@ Tags: C5...
 - Expected Outcome: Project results are expected to contribute to all the following expected outcomes: the research community, farmers, livestock industry e.g. breeders, service providers, policymakers understand better the role of the microbiome on livestock health and production and the interaction ...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03)
 
-### 13. Notice of Change in Application Due Date for RFA-CA-27-005 "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)"
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NCI
+### 13. EIC Accelerator 2026 – Kurzvorschlag **[STARTUP]** **[CONSORTIUM]**
+- **Score**: 7.1/100 | **Source**: EU Funding Portal | **Agency**: HORIZON
+- **Deadline**: 2026-12-17
+- **Startup eligible**: Yes | **Consortium**: Yes
+- **Topics**: Biomanufacturing & Fermentation
+- Anwendungsbereich: Der EIC-Accelerator unterstützt Unternehmen (hauptsächlich KMU, einschließlich Start-up-Unternehmen) dabei, Innovationen mit hoher Wirkung zu fördern, die das Potenzial haben, neue Märkte zu schaffen oder bestehende Märkte zu stören. Der EIC-Accelerator bietet eine einzigartige Ko...
+- [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-ACCELERATOR-01)
+
+### 14. Notice of Informational Webinar for RFA-AI-27-018, Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIAID
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-020.html)
+- Notice NOT-AI-26-004 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-004.html)
 
-### 14. NIH Operates Under a Continuing Resolution
+### 15. Request for Information: Timing of Submission of Prior Approval Requests for IDeA Program Post-Award Projects
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-131.html)
+- Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-012.html)
 
-### 15. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
+### 16. Notice to rescind NOT-MH-06-108, "Notice to Announce Availability of Biomaterials, Phenotyping Information, and Genotyping Data from the NIMH Genetics Initiative for Whole Genome Association Studies"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIMH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-MH-26-080 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-080.html)
+
+### 17. Request for Information (RFI): Strategies to Advance RAPIDs and Real-World Evidence for Serious Mental Illnesses and Related Brain Disorders
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-090.html)
+
+### 18. NIH Webinar:  A Conversation on Recent Updates Regarding Supporting a Safe and Respectful Workplace at Institutions that Receive NIH Funding
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-115 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-115.html)
+
+### 19. Notice of Informational Webinar: NIH Research Evaluation and Commercialization Hubs (REACH)
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-117 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-117.html)
+
+### 20. Request for Information (RFI): Opportunities to Reduce Administrative Burden in NIH Extramural Research
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-118 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-118.html)
+
+### 21. Accelerated Implementation of Data Management and Sharing Plan Changes for NIH Career Development (K) Awards
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
+- **Topics**: None
+- Notice NOT-OD-26-120 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-120.html)
+
+### 22. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2026-11-10
 - **Startup eligible**: Yes | **Consortium**: No
@@ -133,7 +189,7 @@ Tags: C5...
 - Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) (RFA-OD-27-009)...
 - [View full announcement](https://www.grants.gov/search-results-detail/362965)
 
-### 16. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 23. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
@@ -141,7 +197,7 @@ Tags: C5...
 - NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) (PAR-27-058)...
 - [View full announcement](https://www.grants.gov/search-results-detail/359946)
 
-### 17. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
+### 24. Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-01-29
 - **Startup eligible**: Yes | **Consortium**: No
@@ -149,66 +205,10 @@ Tags: C5...
 - Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed) (PAR-27-024)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360446)
 
-### 18. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
+### 25. Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
 - **Deadline**: 2029-07-05
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed) (PAR-27-057)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360160)
-
-### 19. NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-04-05
-- **Startup eligible**: Yes | **Consortium**: Yes
-- **Topics**: None
-- NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional) (PA-27-102)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359757)
-
-### 20. NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2029-04-05
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional) (PA-27-101)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359758)
-
-### 21. NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-04-05
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional) (PA-27-100)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359671)
-
-### 22. SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) **[STARTUP]** **[CONSORTIUM]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2029-04-05
-- **Startup eligible**: Yes | **Consortium**: Yes
-- **Topics**: None
-- SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional) (PAR-27-098)...
-- [View full announcement](https://www.grants.gov/search-results-detail/359669)
-
-### 23. Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Small Business Transition Grant for New Entrepreneurs (Parent R43/R44 Clinical Trial Optional) (PAR-27-039)...
-- [View full announcement](https://www.grants.gov/search-results-detail/362576)
-
-### 24. Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2029-02-06
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI) (PAR-27-032)...
-- [View full announcement](https://www.grants.gov/search-results-detail/360593)
-
-### 25. BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2028-10-06
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed) (RFA-NS-27-001)...
-- [View full announcement](https://www.grants.gov/search-results-detail/358859)
