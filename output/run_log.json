@@ -1,10 +1,9 @@
 {
-  "started_at": "2026-10-27T08:07:23.925526",
+  "started_at": "2026-10-27T08:31:13.755825",
   "sources": {
     "NIH Guide": {
-      "fetched": 0,
-      "status": "error",
-      "error": "403 Client Error: Forbidden for url: https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml"
+      "fetched": 1,
+      "status": "ok"
     },
     "SBIR/STTR": {
       "fetched": 321,
@@ -27,7 +26,7 @@
       "status": "ok"
     },
     "Wellcome Leap": {
-      "fetched": 8,
+      "fetched": 0,
       "status": "ok"
     },
     "UKRI": {
@@ -47,12 +46,10 @@
       "status": "ok"
     }
   },
-  "errors": [
-    "403 Client Error: Forbidden for url: https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml"
-  ],
+  "errors": [],
   "expired_removed": 117,
-  "completed_at": "2026-10-27T08:21:08.382658",
-  "total_opportunities": 1079,
+  "completed_at": "2026-10-27T08:41:21.407919",
+  "total_opportunities": 1076,
   "high_priority_count": 0,
   "startup_eligible_count": 306
 }
