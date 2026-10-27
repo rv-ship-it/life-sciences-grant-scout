@@ -9,7 +9,9 @@ sources:
     url: "https://api.grants.gov/v1/api/search2"
     timeout: 30
     funding_categories:
-      - "HL"
+      - "HL"   # Health (NIH, FDA, CDC, HRSA)
+      - "FN"   # Food and Nutrition (USDA)
+      - "ST"   # Science and Technology (NSF)
     rows_per_page: 250
 
   eu_portal:
@@ -47,6 +49,31 @@ sources:
     enabled: true
     url: "https://wellcomeleap.org"
     programs_path: "/programs/"
+    timeout: 30
+    request_delay: 2.0
+
+  ukri:
+    enabled: true
+    url: "https://www.ukri.org/opportunity/feed/"
+    timeout: 30
+    request_delay: 1.0
+    fetch_detail_pages: true
+
+  cystic_fibrosis:
+    enabled: true
+    url: "https://www.cff.org/researchers/clinical-research-awards"
+    timeout: 30
+    request_delay: 2.0
+
+  march_of_dimes:
+    enabled: true
+    url: "https://www.marchofdimes.org/our-work/research/grants-awards"
+    timeout: 30
+    request_delay: 2.0
+
+  crohns_colitis:
+    enabled: true
+    url: "https://www.crohnscolitisfoundation.org/research/grants-fellowships"
     timeout: 30
     request_delay: 2.0
 

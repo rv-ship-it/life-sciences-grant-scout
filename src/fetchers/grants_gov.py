@@ -17,43 +17,47 @@ class GrantsGovFetcher(BaseFetcher):
     source_name = "Grants.gov"
 
     def fetch(self) -> Generator[Opportunity, None, None]:
-        start = 0
         rows = self.config.get("rows_per_page", 250)
+        categories = self.config.get("funding_categories", ["HL"])
         seen_ids = set()
 
-        while True:
-            payload = {
-                "fundingCategories": "HL",
-                "sortBy": "openDate|desc",
-                "rows": rows,
-                "oppStatuses": "forecasted|posted",
-                "startRecordNum": start,
-            }
-            resp = self._request_with_retry(
-                "POST", self.config["url"],
-                json=payload,
-                headers={"Content-Type": "application/json"},
-            )
-            raw = resp.json()
-            # Response is nested: {data: {oppHits: [...], hitCount: N}}
-            data = raw.get("data", raw)
+        # Query each configured funding category separately — the API expects
+        # a single category string, not a pipe-separated list for this field.
+        for category in categories:
+            start = 0
+            while True:
+                payload = {
+                    "fundingCategories": category,
+                    "sortBy": "openDate|desc",
+                    "rows": rows,
+                    "oppStatuses": "forecasted|posted",
+                    "startRecordNum": start,
+                }
+                resp = self._request_with_retry(
+                    "POST", self.config["url"],
+                    json=payload,
+                    headers={"Content-Type": "application/json"},
+                )
+                raw = resp.json()
+                # Response is nested: {data: {oppHits: [...], hitCount: N}}
+                data = raw.get("data", raw)
 
-            hits = data.get("oppHits", [])
-            if not hits:
-                break
+                hits = data.get("oppHits", [])
+                if not hits:
+                    break
 
-            for hit in hits:
-                opp_id = str(hit.get("id", ""))
-                if opp_id not in seen_ids:
-                    seen_ids.add(opp_id)
-                    yield self._parse_hit(hit)
+                for hit in hits:
+                    opp_id = str(hit.get("id", ""))
+                    if opp_id not in seen_ids:
+                        seen_ids.add(opp_id)
+                        yield self._parse_hit(hit)
 
-            start += rows
-            total = data.get("hitCount", data.get("totalCount", 0))
-            if start >= total:
-                break
+                start += rows
+                total = data.get("hitCount", data.get("totalCount", 0))
+                if start >= total:
+                    break
 
-            time.sleep(1)
+                time.sleep(1)
 
     def _parse_hit(self, hit: dict) -> Opportunity:
         opp_id = str(hit.get("id", ""))

@@ -34,6 +34,7 @@ def main():
         choices=[
             "nih_guide", "grants_gov", "eu_portal", "sbir",
             "grand_challenges", "innovation_fund_dk", "wellcome_leap",
+            "ukri", "cystic_fibrosis", "march_of_dimes", "crohns_colitis",
         ],
         help="Run specific sources only",
     )

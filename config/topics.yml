@@ -26,6 +26,7 @@ topics:
       - mucosal surface
       - mucosal immunity
       - mucosal defense
+      - mucosal inflammation
       - epithelial barrier
       - barrier function
       - barrier integrity
@@ -100,7 +101,7 @@ topics:
       - pediatric nutrition
 
   Gut Health & GI Diseases:
-    weight: 0.9
+    weight: 1.0
     keywords:
       - inflammatory bowel disease
       - IBD
@@ -109,28 +110,30 @@ topics:
       - leaky gut
       - intestinal permeability
       - gut inflammation
-      - colitis
-      - gastrointestinal health
       - FMT
+      - fecal microbiota transplant
       - short-chain fatty acids
       - SCFA
       - gut-brain axis
+      - nutraceutical
+      - functional food
+      - dietary supplement
+      - food as medicine
+      - IBD therapeutic
 
-  Women's Health:
-    weight: 0.9
+  Vaginal Health:
+    weight: 1.0
     keywords:
       - vaginal microbiome
       - bacterial vaginosis
       - BV
       - vaginal dryness
       - vaginal health
-      - menopause
-      - urogenital health
-      - vulvovaginal
-      - women's health
-      - reproductive health
       - vaginal dysbiosis
-      - feminine health
+      - vulvovaginal
+      - cervicovaginal
+      - Lactobacillus crispatus
+      - reproductive tract microbiome
 
   Skin Health:
     weight: 0.8
@@ -144,24 +147,8 @@ topics:
       - wound healing
       - skin integrity
 
-  Inflammatory & Immune:
-    weight: 0.9
-    keywords:
-      - chronic inflammation
-      - autoimmune disease
-      - immunomodulation
-      - anti-inflammatory
-      - mucosal inflammation
-      - cytokine
-      - innate immunity
-      - adaptive immunity
-      - immune response
-      - immune barrier
-      - inflammatory biomarkers
-      - immune-mediated
-
   Respiratory & Ocular Mucosal Health:
-    weight: 0.8
+    weight: 0.9
     keywords:
       - respiratory mucosa
       - airway mucus
@@ -175,6 +162,29 @@ topics:
       - chronic obstructive pulmonary
       - respiratory health
       - pulmonary mucus
+
+  Medical Devices & Drug Delivery:
+    weight: 1.0
+    keywords:
+      - mucoadhesive
+      - mucosal drug delivery
+      - lubricious coating
+      - lubricious surface
+      - biocompatible coating
+      - biomaterial coating
+      - hydrogel coating
+      - catheter coating
+      - implant coating
+      - contact lens
+      - tear film replacement
+      - artificial saliva
+      - wound dressing
+      - wound healing matrix
+      - mucosal patch
+      - buccal delivery
+      - vaginal delivery device
+      - bioresorbable implant
+      - transmucosal delivery
 
 scoring:
   keyword_weight: 0.60
@@ -212,7 +222,21 @@ exclusion_keywords:
   - aquaculture
   - forestry
   - agricultural residues
+  - crop production
   - crop
+  - synthetic rubber
+  - carbon fixation
+  - synthetic compartmentalization
+  - climate change
+  - greenhouse gas
+  - livestock
+  - terrestrial livestock
+  - fisheries
+  - plant-based materials
+  - bio-inspired materials
+  - menopause
+  - perimenopause
+  - postmenopause
 
 eligibility_flags:
   startup_keywords:

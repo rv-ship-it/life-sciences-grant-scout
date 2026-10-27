@@ -6,12 +6,16 @@ import yaml
 
 from .deduplicator import Deduplicator
 from .eligibility import parse_eligibility
+from .fetchers.crohns_colitis import CrohnsColitisFetcher
+from .fetchers.cystic_fibrosis import CFFFetcher
 from .fetchers.eu_portal import EUPortalFetcher
 from .fetchers.grand_challenges import GrandChallengesFetcher
 from .fetchers.grants_gov import GrantsGovFetcher
 from .fetchers.innovation_fund_dk import InnovationFundDKFetcher
+from .fetchers.march_of_dimes import MarchOfDimesFetcher
 from .fetchers.nih_guide import NIHGuideFetcher
 from .fetchers.sbir import SBIRFetcher
+from .fetchers.ukri import UKRIFetcher
 from .fetchers.wellcome_leap import WellcomeLeapFetcher
 from .scoring.combined import CombinedScorer
 from .scoring.keyword_scorer import KeywordScorer
@@ -28,6 +32,10 @@ FETCHER_MAP = {
     "grand_challenges": (GrandChallengesFetcher, "grand_challenges"),
     "innovation_fund_dk": (InnovationFundDKFetcher, "innovation_fund_dk"),
     "wellcome_leap": (WellcomeLeapFetcher, "wellcome_leap"),
+    "ukri": (UKRIFetcher, "ukri"),
+    "cystic_fibrosis": (CFFFetcher, "cystic_fibrosis"),
+    "march_of_dimes": (MarchOfDimesFetcher, "march_of_dimes"),
+    "crohns_colitis": (CrohnsColitisFetcher, "crohns_colitis"),
 }
 
 

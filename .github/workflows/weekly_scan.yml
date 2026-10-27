@@ -54,3 +54,9 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python scripts/send_slack_notification.py
         continue-on-error: true
+
+      - name: Commit notification state
+        run: |
+          git add notifications/last_sent.json || true
+          git diff --staged --quiet || git commit -m "Update Slack notification state"
+          git push || true

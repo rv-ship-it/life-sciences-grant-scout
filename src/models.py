@@ -12,6 +12,10 @@ class Source(str, Enum):
     GRAND_CHALLENGES = "Grand Challenges"
     INNOVATION_FUND_DK = "Innovation Fund Denmark"
     WELLCOME_LEAP = "Wellcome Leap"
+    UKRI = "UKRI"
+    CFF = "Cystic Fibrosis Foundation"
+    MARCH_OF_DIMES = "March of Dimes"
+    CROHNS_COLITIS = "Crohn's & Colitis Foundation"
 
 
 class ActivityType(str, Enum):
