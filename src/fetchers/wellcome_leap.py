@@ -132,14 +132,21 @@ class WellcomeLeapFetcher(BaseFetcher):
         text = soup.get_text()
         lower_text = text.lower()
 
-        # Strong closed signals — skip immediately
+        # Strong closed signals — skip immediately. Catch both word orders
+        # ("performers selected" and "selected performers") and other close
+        # indicators including portal-closed and past-deadline markers.
         closed_patterns = [
             r"performers?\s+(?:have\s+been\s+)?selected",
+            r"selected\s+performers?",
             r"selection\s+(?:is\s+)?complete",
             r"program\s+(?:is\s+)?closed",
             r"no\s+longer\s+accepting",
             r"call\s+(?:is\s+)?closed",
             r"applications?\s+(?:are?\s+)?closed",
+            r"portal\s+is\s+(?:now\s+)?closed",
+            r"submissions?\s+(?:are\s+)?closed",
+            r"pleased\s+to\s+announce\s+the\s+selected\s+performers?",
+            r"congratulations\s+to\s+(?:the|our)\s+selected",
         ]
         if any(re.search(p, lower_text) for p in closed_patterns):
             self.logger.debug(f"Program '{program_name}' appears closed")
@@ -158,6 +165,15 @@ class WellcomeLeapFetcher(BaseFetcher):
         ]
         if not any(re.search(p, lower_text) for p in open_patterns):
             self.logger.debug(f"No open call signals for '{program_name}'")
+            return None
+
+        # If the page mentions a specific submission/application deadline
+        # that is in the past, treat as closed even if "APPLY NOW" buttons
+        # still linger from before the deadline.
+        if self._has_past_deadline(text):
+            self.logger.debug(
+                f"Program '{program_name}' has past deadline; treating as closed"
+            )
             return None
 
         slug = url.rstrip("/").split("/")[-1]
@@ -212,6 +228,34 @@ class WellcomeLeapFetcher(BaseFetcher):
                 parsed = self._parse_date_str(match)
                 if parsed and parsed > date.today():
                     return parsed
+        return None
+
+    def _has_past_deadline(self, text: str) -> bool:
+        """Return True if the text mentions a submission/application
+        deadline date that is in the past."""
+        patterns = [
+            r"submit\s+(?:your\s+)?(?:proposal|application).{0,80}?"
+            r"(\d{1,2}\s+\w+\s+\d{4})",
+            r"(?:deadline|due|closes?|submit\s+by|portal)[^.\n]{0,80}?"
+            r"(\w+\s+\d{1,2},?\s+\d{4})",
+            r"(?:deadline|due|closes?|submit\s+by|portal)[^.\n]{0,80}?"
+            r"(\d{1,2}\s+\w+\s+\d{4})",
+        ]
+        today = date.today()
+        for pattern in patterns:
+            for match in re.findall(pattern, text, re.IGNORECASE):
+                parsed = self._parse_date_str_any(match)
+                if parsed and parsed < today:
+                    return True
+        return False
+
+    def _parse_date_str_any(self, date_str: str) -> date | None:
+        clean = date_str.strip().replace(",", "")
+        for fmt in ("%B %d %Y", "%b %d %Y", "%d %B %Y", "%d %b %Y"):
+            try:
+                return datetime.strptime(clean, fmt).date()
+            except ValueError:
+                continue
         return None
 
     def _extract_funding(self, text: str) -> int | None:

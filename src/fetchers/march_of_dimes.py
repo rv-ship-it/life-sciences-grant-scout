@@ -51,6 +51,22 @@ class MarchOfDimesFetcher(BaseFetcher):
             except Exception as e:
                 self.logger.warning(f"Failed to scrape {link}: {e}")
 
+    # Titles that look grant-ish but are really navigation / landing pages
+    GENERIC_TITLE_BLOCKLIST = {
+        "areas of research",
+        "grants and awards",
+        "grants & awards",
+        "research grants",
+        "our research",
+        "funding",
+        "research",
+        "awards",
+        "grants",
+        "research centers",
+        "prematurity research centers",
+        "research areas",
+    }
+
     def _extract_grant_links(
         self, soup: BeautifulSoup, base_url: str
     ) -> list[tuple[str, str]]:
@@ -61,16 +77,35 @@ class MarchOfDimesFetcher(BaseFetcher):
             text = a.get_text(strip=True)
             if not text or len(text) < 10:
                 continue
+            if text.lower() in self.GENERIC_TITLE_BLOCKLIST:
+                continue
             lower_href = href.lower()
             lower_text = text.lower()
-            # Keep links that look like grant programs
-            if any(
+            # Keep links that look like SPECIFIC grant programs (named awards,
+            # starter grants, etc.) — not landing pages
+            specific_markers = [
+                "starter",
+                "scholar",
+                "fellowship",
+                "grant program",
+                "award program",
+                "innovator",
+                "pilot",
+                "basil",
+                "rfa",
+                "rfp",
+            ]
+            is_specific = any(
+                m in lower_text or m in lower_href for m in specific_markers
+            )
+            # OR: the URL path is deep (more than just /our-work/research/*)
+            # indicating a specific program page
+            path_depth = href.count("/") - (3 if href.startswith("http") else 0)
+            is_deep = path_depth >= 4 and any(
                 kw in lower_href
-                for kw in ["grant", "award", "research", "funding", "rfp", "rfa"]
-            ) and any(
-                kw in lower_text
-                for kw in ["grant", "award", "research", "fellowship", "funding"]
-            ):
+                for kw in ["grant", "award", "fellowship", "scholar"]
+            )
+            if is_specific or is_deep:
                 if href.startswith("/"):
                     href = base_url + href
                 if href not in seen and href.startswith(base_url):
@@ -102,6 +137,29 @@ class MarchOfDimesFetcher(BaseFetcher):
         text = soup.get_text()
         deadline = self._extract_deadline(text)
         funding = self._extract_funding(text)
+
+        # Quality gate: only yield pages that look like actual grant RFPs,
+        # not navigation / "about our research" landing pages.
+        lower = text.lower()
+        has_rfp_content = any(
+            kw in lower
+            for kw in [
+                "deadline",
+                "applications are",
+                "application deadline",
+                "apply by",
+                "letter of intent",
+                "loi deadline",
+                "submission deadline",
+                "eligibility",
+                "principal investigator",
+                "award amount",
+                "award period",
+            ]
+        )
+        if not (deadline or funding or has_rfp_content):
+            self.logger.debug(f"MOD page {url} looks like a landing page; skipping")
+            return None
 
         slug = url.rstrip("/").split("/")[-1]
         return Opportunity(
