@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-10-27
+# Grant Scout Report -- 2026-11-02
 
 ## Summary
 
-- **Total**: 1076 opportunities across 6 sources
+- **Total**: 1080 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 306
-- **Consortium-eligible**: 58
+- **Startup-eligible**: 302
+- **Consortium-eligible**: 57
 
 ## Top Opportunities
 
@@ -57,13 +57,13 @@
 - Anwendungsbereich: Der EIC-Accelerator unterstützt Unternehmen (hauptsächlich KMU, einschließlich Start-up-Unternehmen) dabei, Innovationen mit hoher Wirkung zu fördern, die das Potenzial haben, neue Märkte zu schaffen oder bestehende Märkte zu stören. Der EIC-Accelerator bietet eine einzigartige Ko...
 - [View full announcement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-ACCELERATOR-01)
 
-### 7. Notice of Information Webinar: NIDCD Fellowship Pre-Application Webinar
+### 7. Draft Policy Update to the NIH Policy for Data and Safety Monitoring
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-DC-27-010 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DC-27-010.html)
+- Notice NOT-OD-27-006 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-006.html)
 
 ### 8. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
@@ -177,34 +177,34 @@
 - NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) (TEMP-30794)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358912)
 
-### 22. NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed) **[STARTUP]**
+### 22. Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2030-12-01
+- **Deadline**: 2027-01-08
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed) (RFA-EB-28-004)...
-- [View full announcement](https://www.grants.gov/search-results-detail/361380)
+- Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed) (RFA-RM-27-009)...
+- [View full announcement](https://www.grants.gov/search-results-detail/358959)
 
-### 23. Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed) **[STARTUP]**
+### 23. Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-01-29
+- **Deadline**: 2027-01-08
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- Translational Centers Using Microphysiological Systems for Infectious Diseases (U54 Clinical Trial Not Allowed) (RFA-AI-28-012)...
-- [View full announcement](https://www.grants.gov/search-results-detail/362954)
+- Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed) (RFA-RM-27-008)...
+- [View full announcement](https://www.grants.gov/search-results-detail/358954)
 
-### 24. National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-11-01
+### 24. Teaching Health Center Graduate Medical Education (THCGME) Program **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-HRSA
+- **Deadline**: 2026-12-11
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed) (RFA-DC-28-001)...
-- [View full announcement](https://www.grants.gov/search-results-detail/361207)
+- Teaching Health Center Graduate Medical Education (THCGME) Program (HRSA-27-017)...
+- [View full announcement](https://www.grants.gov/search-results-detail/363111)
 
-### 25. Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed) **[STARTUP]**
+### 25. Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-03-05
+- **Deadline**: 2027-01-08
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed) (RFA-DC-28-002)...
-- [View full announcement](https://www.grants.gov/search-results-detail/361208)
+- Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed) (RFA-RM-27-010)...
+- [View full announcement](https://www.grants.gov/search-results-detail/358960)
