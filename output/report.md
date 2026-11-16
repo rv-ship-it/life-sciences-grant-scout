@@ -1,11 +1,11 @@
-# Grant Scout Report -- 2026-11-09
+# Grant Scout Report -- 2026-11-16
 
 ## Summary
 
-- **Total**: 1072 opportunities across 7 sources
+- **Total**: 1060 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 310
-- **Consortium-eligible**: 58
+- **Startup-eligible**: 306
+- **Consortium-eligible**: 55
 
 ## Top Opportunities
 
@@ -73,13 +73,13 @@
 - Notice NOT-OD-26-111 from the NIH Guide for Grants and Contracts...
 - [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-111.html)
 
-### 9. Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2026-11-10
-- **Startup eligible**: Yes | **Consortium**: No
+### 9. National Policy for Nucleic Acid Synthesis Screening
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+- **Deadline**: Rolling/TBD
+- **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional) (RFA-OD-27-009)...
-- [View full announcement](https://www.grants.gov/search-results-detail/362965)
+- Notice NOT-OD-27-007 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-007.html)
 
 ### 10. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
@@ -185,26 +185,26 @@
 - NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) (TEMP-30794)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358912)
 
-### 23. Women's Initiative for Screening and Health (WISH) **[STARTUP]**
+### 23. Research on Complex Generics **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-FDA
+- **Deadline**: 2026-12-14
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Research on Complex Generics (RFA-FD-27-001)...
+- [View full announcement](https://www.grants.gov/search-results-detail/364267)
+
+### 24. Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: 2027-06-10
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required) (RFA-MH-27-150)...
+- [View full announcement](https://www.grants.gov/search-results-detail/363875)
+
+### 25. Women's Initiative for Screening and Health (WISH) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-HRSA
 - **Deadline**: 2027-01-08
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
 - Women's Initiative for Screening and Health (WISH) (HRSA-27-072)...
 - [View full announcement](https://www.grants.gov/search-results-detail/363546)
-
-### 24. Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026 **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HUD
-- **Deadline**: 2027-01-05
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026 (PIH-2600-DC-0005)...
-- [View full announcement](https://www.grants.gov/search-results-detail/361994)
-
-### 25. Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-FDA
-- **Deadline**: Rolling/TBD
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs (PAR-27-017)...
-- [View full announcement](https://www.grants.gov/search-results-detail/364223)
