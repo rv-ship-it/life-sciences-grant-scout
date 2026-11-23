@@ -1,10 +1,10 @@
-# Grant Scout Report -- 2026-11-16
+# Grant Scout Report -- 2026-11-23
 
 ## Summary
 
-- **Total**: 1060 opportunities across 7 sources
+- **Total**: 1031 opportunities across 7 sources
 - **High priority**: 0 opportunities
-- **Startup-eligible**: 306
+- **Startup-eligible**: 305
 - **Consortium-eligible**: 55
 
 ## Top Opportunities
@@ -57,29 +57,29 @@
 - The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers (RFA-DK-27-116)...
 - [View full announcement](https://www.grants.gov/search-results-detail/360621)
 
-### 7. Request for Information (RFI): Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032
-- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
+### 7. Notice to Rescind NOT-CA-21-096, "Notice of Information: Guidance Regarding Minimum Level of Effort for NCI-Funded Awards"
+- **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NCI
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-DC-26-008 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-008.html)
+- Notice NOT-CA-27-002 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-CA-27-002.html)
 
-### 8. Request for Information: Developing Menopause Common Data Elements
+### 8. Notice of Office of Data Science Strategy (ODSS) Participation in PA-25-080 "NIH Support for Conferences and Scientific Meetings (Parent R13 Clinical Trial Not Allowed)"
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
 - **Startup eligible**: No | **Consortium**: No
 - **Topics**: None
-- Notice NOT-OD-26-111 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-111.html)
+- Notice NOT-OD-27-012 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-012.html)
 
-### 9. National Policy for Nucleic Acid Synthesis Screening
+### 9. Notice of Change: Updates to SBIR and STTR Foreign Risk Notification and Mitigation Process **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: NIH Guide | **Agency**: NIH
 - **Deadline**: Rolling/TBD
-- **Startup eligible**: No | **Consortium**: No
+- **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- Notice NOT-OD-27-007 from the NIH Guide for Grants and Contracts...
-- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-007.html)
+- Notice NOT-OD-27-017 from the NIH Guide for Grants and Contracts...
+- [View full announcement](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-017.html)
 
 ### 10. NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
@@ -185,26 +185,26 @@
 - NIEHS Worker Training Program&rsquo;s SBIR E-Learning for HAZMAT and Emergency Response (R43/R44 Clinical Trial Not Allowed) (TEMP-30794)...
 - [View full announcement](https://www.grants.gov/search-results-detail/358912)
 
-### 23. Research on Complex Generics **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-FDA
-- **Deadline**: 2026-12-14
-- **Startup eligible**: Yes | **Consortium**: No
-- **Topics**: None
-- Research on Complex Generics (RFA-FD-27-001)...
-- [View full announcement](https://www.grants.gov/search-results-detail/364267)
-
-### 24. Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required) **[STARTUP]**
+### 23. HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required) **[STARTUP]**
 - **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
-- **Deadline**: 2027-06-10
+- **Deadline**: 2027-03-09
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required) (RFA-MH-27-150)...
-- [View full announcement](https://www.grants.gov/search-results-detail/363875)
+- HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required) (RFA-AI-28-001)...
+- [View full announcement](https://www.grants.gov/search-results-detail/361815)
 
-### 25. Women's Initiative for Screening and Health (WISH) **[STARTUP]**
-- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-HRSA
-- **Deadline**: 2027-01-08
+### 24. HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: 2027-03-09
 - **Startup eligible**: Yes | **Consortium**: No
 - **Topics**: None
-- Women's Initiative for Screening and Health (WISH) (HRSA-27-072)...
-- [View full announcement](https://www.grants.gov/search-results-detail/363546)
+- HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required) (RFA-AI-28-003)...
+- [View full announcement](https://www.grants.gov/search-results-detail/361816)
+
+### 25. HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required) **[STARTUP]**
+- **Score**: 0.0/100 | **Source**: SBIR/STTR | **Agency**: HHS-NIH11
+- **Deadline**: 2027-03-09
+- **Startup eligible**: Yes | **Consortium**: No
+- **Topics**: None
+- HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required) (RFA-AI-28-002)...
+- [View full announcement](https://www.grants.gov/search-results-detail/361820)
